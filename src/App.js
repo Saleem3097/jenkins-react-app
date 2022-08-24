@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h1>Hello</h1>
 	  <p> good morning </p>
+	  <b>bold</b>
       <h2>This is a jenkins triggered build and iam updating it</h2>
     </div>
   );
